@@ -1,0 +1,1 @@
+\i shipping-gateway-sc-create.sql
