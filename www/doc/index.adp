@@ -39,7 +39,7 @@
   interfaces by shipping companies and the limited capabilities of the
   current <a href="/doc/acs-service-contract">ACS Service Contract
   API</a> warrant a careful and deliberate approach. Future versions
-  will grow in capabilities while maitaining back-wards compatibility
+  will grow in capabilities while maintaining backwards compatibility
   where possible.</p>
 
   <h2>Usage</h2>
