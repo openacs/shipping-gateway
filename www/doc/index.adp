@@ -3,17 +3,8 @@
 <master>
   <property name="title">@title@</property>
   <property name="signatory">@signatory@</property>
+  <property name="context_bar">@context_bar@</property>
   <property name="header_stuff"><link href="index.css" type="text/css" rel="stylesheet"></property>
-
-  <h2>@title@</h2>
-  <table width="100%">
-    <tbody>
-      <tr>
-	<td align="left">@context_bar@</td>
-      </tr>
-    </tbody>
-  </table>
-  <hr>
 
   <h2>Why</h2>
 
