@@ -7,7 +7,7 @@
     <initial-install-p>f</initial-install-p>
     <singleton-p>t</singleton-p>
 
-    <version name="4.5b" url="http://openacs.org/repository/download/apm/shipping-gateway-4.5b.apm">
+    <version name="4.6" url="http://openacs.org/repository/download/apm/shipping-gateway-4.6.apm">
     <database-support>
         <database>oracle</database>
         <database>postgresql</database>
@@ -17,7 +17,7 @@
         <release-date>2002-05-13</release-date>
         <description format="text/plain">First stab at a service contract for shipping services like UPS, Fedex or home grown shipping rates like value-based shipping rates.</description>
 
-        <provides url="shipping-gateway" version="4.5b"/>
+        <provides url="shipping-gateway" version="4.6"/>
         <requires url="acs-service-contract" version="4.2"/>
 
         <files>
