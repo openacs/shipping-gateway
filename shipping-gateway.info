@@ -13,7 +13,7 @@
         <database>postgresql</database>
     </database-support>
         <owner url="mailto:bart.teeuwisse@7-sisters.com">Bart Teeuwisse</owner>
-        <summary>Service contract definitions for for shipping services like UPS or Fedex.</summary>
+        <summary>Service contract definitions for shipping services like UPS or Fedex.</summary>
         <release-date>2002-05-13</release-date>
         <description format="text/plain">First stab at a service contract to define an interface to shipping services like UPS, Fedex or home grown shipping rates like value-based shipping rates.</description>
 
